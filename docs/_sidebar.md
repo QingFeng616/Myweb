@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](notes/diary.md)
-* [指南](notes/SJZ.md)
+* [日记](notes/diary.md)
+* [三角洲](notes/SJZ.md)
