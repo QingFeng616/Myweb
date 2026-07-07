@@ -10,10 +10,19 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      loadSidebar: true
+      loadSidebar: true,
+      subMaxLevel: 2,
+      loadNavbar: true,
+
+ plugins: [
+      EditOnGithubPlugin.create(
+       'https://github.com/QingFeng616/Myweb.git',
+       null,
+        Edit)]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
 </body>
 </html>

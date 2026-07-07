@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](zh-cn/)
-* [指南](zh-cn/guide)
+* [首页](notes/diary.md)
+* [指南](notes/SJZ.md)
